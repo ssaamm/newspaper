@@ -23,7 +23,7 @@ class DocumentCleaner(object):
             "|tags|socialnetworking|socialNetworking|cnnStryHghLght"
             "|cnn_stryspcvbx|^inset$|pagetools|post-attributes"
             "|welcome_form|contentTools2|the_answers"
-            "|communitypromo|runaroundLeft|subscribe|vcard|articleheadings"
+            "|communitypromo|runaroundLeft|vcard|articleheadings"
             "|date|^print$|popup|author-dropdown|tools|socialtools|byline"
             "|konafilter|KonaFilter|breadcrumbs|^fn$|wp-caption-text"
             "|legende|ajoutVideo|timestamp|js_replies"
